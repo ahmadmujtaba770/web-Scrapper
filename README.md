@@ -45,4 +45,19 @@ This project is a Java-based Web Scraper that extracts specific information from
 
 ---
 
-## 📂 Project Structure
+---
+
+## 🚀 How to Run
+1. Clone the repository  
+2. Open the project in any Java IDE  
+3. Add JSoup library to the project  
+4. Run the `Main.java` file  
+5. Enter a valid website URL when prompted  
+
+---
+
+## 📈 Learning Outcomes
+- Practical understanding of web scraping  
+- Improved Java programming skills  
+- Experience with third-party libraries  
+- Better handling of real-world data  
